@@ -1,10 +1,9 @@
 ---
-Passing the Terraform Certification Exam---
 title: The Power of AWS IAM Policies
 author: merswaf
 date: 2024-03-30 08:00:00 +0300
 categories: [Blog, Reviews]
-tags: [exam,terraform]
+tags: [AWS]
 pin : true
 ---
 

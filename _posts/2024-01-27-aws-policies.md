@@ -2,7 +2,7 @@
 title: The Power of AWS IAM Policies
 author: merswaf
 date: 2024-01-27 08:00:00 +0300
-categories: [Blog, Reviews]
+categories: [Blog, Topics]
 tags: [AWS]
 pin : true
 ---

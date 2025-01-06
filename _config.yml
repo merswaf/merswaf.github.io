@@ -16,7 +16,7 @@ timezone: Africa/Nairobi
 
 title: Merss # the main title
 
-tagline: Hey there! Just a slice of what I’ve been cooking up lately—extra cheesy!
+tagline: Hey there! Just a slice of what I’ve been cooking up lately—extra cheesy!or not
 
 description: >- # used by seo meta and the atom feed
   what I have been upto
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /assets/pic.jpeg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.

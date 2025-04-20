@@ -27,3 +27,8 @@ I’m also grinding my way towards the **GCIH** certification, exploring cyber m
 
 Oh, and I’m an **aspiring CTF player** — currently more “Can Try Fumbling” than “Capture The Flag,” but we’re getting there. One flag at a time.
 
+## Medium Page
+
+I do writeups when I’m not *extremely* lazy. Check them out here:
+
+[Visit my Medium blog](https://medium.com/@mercysitialo)

@@ -7,13 +7,14 @@ order: 4
 ## Certifications
 
 <p align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px;">
-  <img src="{{ '/assets/CISSP.png' | relative_url }}" alt="CISSP" width="80">
-  <img src="{{ '/assets/BTL.png' | relative_url }}" alt="Blue Team Level 1" width="80">
-  <img src="{{ '/assets/SAL1png' | relative_url }}" alt="THM SAL1" width="80">
-  <img src="{{ '/assets/SEC+.png' | relative_url }}" alt="Security+" width="80">
-  <img src="{{ '/assets/ccna_600.png' | relative_url }}" alt="CCNA" width="80">
-  <img src="{{ '/assets/CEH.png' | relative_url }}" alt="CEH" width="80">
+  <img src="{{ '/assets/CISSP.png' | relative_url }}" alt="CISSP" width="60">
+  <img src="{{ '/assets/BTL.png' | relative_url }}" alt="Blue Team Level 1" width="60">
+  <img src="{{ '/assets/SAL1.png' | relative_url }}" alt="THM SAL1" width="60">
+  <img src="{{ '/assets/SEC+.png' | relative_url }}" alt="Security+" width="60">
+  <img src="{{ '/assets/ccna_600.png' | relative_url }}" alt="CCNA" width="60">
+  <img src="{{ '/assets/CEH.png' | relative_url }}" alt="CEH" width="60">
 </p>
+
 
 
 ## About Me

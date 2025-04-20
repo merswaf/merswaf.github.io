@@ -8,7 +8,7 @@ order: 4
 
 <div style="width: 100%;">
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px;">
-    <img src="{{ '/assets/CISSP.png' | relative_url }}" alt="CISSP" width="60">
+    <img src="{{ '/assets/CISSPP.png' | relative_url }}" alt="CISSP" width="60">
     <img src="{{ '/assets/BTL.png' | relative_url }}" alt="Blue Team Level 1" width="60">
     <img src="{{ '/assets/SAL1.png' | relative_url }}" alt="THM SAL1" width="60">
     <img src="{{ '/assets/SEC+.png' | relative_url }}" alt="Security+" width="60">

@@ -6,7 +6,7 @@ order: 4
 
 ## Certifications
 
-<div style="display: flex; justify-content: flex-end; flex-wrap: wrap; gap: 15px;">
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; padding: 15px 0;">
 
   <img src="{{ '/assets/CISSP.png' | relative_url }}" alt="CISSP" width="60">
   <img src="{{ '/assets/BTL.png' | relative_url }}" alt="Blue Team Level 1" width="60">

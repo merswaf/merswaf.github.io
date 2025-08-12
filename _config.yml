@@ -84,11 +84,11 @@ collections:
     output: true
     permalink: /:title
   notes:
-    output: false
+    output: true
     permalink: /notes/:title
-  #journals:
-   # output: false
-    #permalink: /journals/:title
+  projgg:
+    output: true
+    permalink: /journals/:title
 
 # Exclude from processing.
 exclude:

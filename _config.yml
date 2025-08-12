@@ -21,8 +21,7 @@
 title: "Mercy"
 email: merswaf@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A responsive sidebar Jekyll theme using the Pure.css framework, 
-  designed for writers and bloggers of all kinds.
+  Certified CURIOUS.Always trying to learn
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://merswaf.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 repository: merswaf/merswaf.github.io
@@ -63,8 +62,8 @@ defaults:
       type: "posts" # previously `post` in Jekyll 2.2.
     values:
       layout: "post"
-      author: Brennan K. Brown
-      avatar: assets/profile-sm.png
+      author: Mercy Wafula
+      avatar: assets/seb.png
   - scope:
       path: ""
       type: notes
@@ -85,10 +84,10 @@ collections:
     output: true
     permalink: /:title
   notes:
-    output: true
+    output: false
     permalink: /notes/:title
   journals:
-    output: true
+    output: false
     permalink: /journals/:title
 
 # Exclude from processing.

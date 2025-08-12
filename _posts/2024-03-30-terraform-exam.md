@@ -3,8 +3,8 @@ layout: post
 title: "Terraform Exam"
 date: 2024-03-30
 tags:
-  - Jekyll
-  - Markdown
+  - terraform
+  - certs
 author: Mers Wafula
 category: Certification
 ---

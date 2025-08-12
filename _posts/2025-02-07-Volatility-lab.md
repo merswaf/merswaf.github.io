@@ -1,6 +1,6 @@
 ---
 layout: post
-  title: "Memory Foreniscs: Volatility"
+  title: "Memory Foreniscs Volatility"
 date: 2025-02-07
 tags:
   - Jekyll

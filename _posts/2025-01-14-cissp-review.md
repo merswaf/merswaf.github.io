@@ -1,10 +1,12 @@
 ---
-title: CISSP Review 
-author: merswaf
-date: 2025-01-14 08:00:00 +0300
-categories: [Blog, Review]
-tags: [CISSP]
-pin : true
+layout: post
+title: "CISSP Review"
+date: 2025-01-14
+tags:
+  - Jekyll
+  - Markdown
+author: Mers Wafula
+category: Certification
 ---
 
 ### CISSP EXAM REVIEW

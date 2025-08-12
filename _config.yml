@@ -73,7 +73,7 @@ defaults:
       path: ""
       type: projects
     values:
-      layout: projects-entry
+      layout: journal-entry
       content-type: projects
 # Allows all pages to be put into `_pages` folder
 # for easier navigation and better SEO.

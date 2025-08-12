@@ -3,8 +3,8 @@ layout: post
 title: "CISSP Review"
 date: 2025-01-14
 tags:
-  - Jekyll
-  - Markdown
+  - cissp
+  - certs
 author: Mers Wafula
 category: Certification
 ---

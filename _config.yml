@@ -31,7 +31,7 @@ github: merswaf
 
 header_image: assets/seb.jpeg
 
-google_analytics:
+
 comments: true
 disqus: purelog-jekyll
 

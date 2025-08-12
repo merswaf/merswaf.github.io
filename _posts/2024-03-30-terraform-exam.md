@@ -1,10 +1,12 @@
 ---
-title: Terraform exam 
-author: merswaf
-date: 2024-03-30 08:00:00 +0300
-categories: [Blog, Topics]
-tags: [Terraform]
-pin : true
+layout: post
+title: "Terraform Exam"
+date: 2024-03-30
+tags:
+  - Jekyll
+  - Markdown
+author: Mers Wafula
+category: Certification
 ---
 Hey there! I’m thrilled to share that I’ve recently passed the Terraform certification exam, and I couldn’t be more excited! Along the way, I picked up some valuable insights and strategies that I believe can help others achieve success in their Terraform certification journey too. So, if you’re gearing up for the exam, here’s my firsthand guidance on how to pass it with flying colors.
 

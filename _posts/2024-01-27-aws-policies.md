@@ -3,8 +3,7 @@ layout: post
 title: "The Power of AWS IAM Policies"
 date: 2024-01-27
 tags:
-  - Jekyll
-  - Markdown
+  - aws
 author: Mers Wafula
 category: AWS
 ---

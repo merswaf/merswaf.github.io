@@ -64,11 +64,11 @@ defaults:
       layout: "post"
       author:
       avatar: assets/profile-sm.png
-  - scope:
-      path: "about.md"
-    values:
-      layout: about-entry
-      content-type: about
+  #- scope:
+   #   path: "about.md"
+    #values:
+     # layout: about-entry
+      #content-type: about
   - scope:
       path: ""
       type: projects

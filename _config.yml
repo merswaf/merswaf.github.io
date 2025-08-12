@@ -83,12 +83,15 @@ collections:
   pages:
     output: true
     permalink: /:title
-  notes:
+  projects:
     output: true
-    permalink: /notes/:title
-  projgg:
-    output: true
-    permalink: /jrnals/:title
+    permalink: /projects/:title
+  #notes:
+   # output: true
+    #permalink: /notes/:title
+  #projgg:
+   # output: true
+    #permalink: /jrnals/:title
 
 # Exclude from processing.
 exclude:

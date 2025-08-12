@@ -18,31 +18,28 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Purelog: for Writers"
-email: mail@brennanbrown.ca
+title: "Mercy"
+email: merswaf@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A responsive sidebar Jekyll theme using the Pure.css framework, 
   designed for writers and bloggers of all kinds.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://purelog.netlify.app" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://merswaf.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 repository: brennanbrown/purelog
-twitter: brennankbrown
-github: brennanbrown
+twitter: merswaf
+github: merswaf
 
-header_image: assets/profile.png
+header_image: assets/seb.jpeg
 
 google_analytics:
 comments: true
 disqus: purelog-jekyll
 
-author: Brennan K. Brown
+author: Mercy Wafula
 author_bio: >-
-  Hey there! 😄 My name is Brennan, I'm a 25-year-old Métis web developer and 
-  content strategist from Winnipeg, Manitoba and currently reside in Calgary, 
-  Alberta. I've recently compeleted a Full Stack Developer Program at EvolveU, 
-  and I'm looking to help those that need web development work done, or 
-  searching for ideas and management for their next content project.
-author_pic: https://brennanbrown.ca/img/avatar.png
+  Heya! 😄 I’m Mercy, and this is where I share what I’m working on, what I’ve accomplished (hello, certifications!), and whatever else catches my interest. So, welcome — I guess?
+  When I’m not extremely lazy, I write up my adventures on Hack The Box, TryHackMe, and CyberDefenders. Feel free to check them out [Here](https://medium.com/@mercysitialo)
+author_pic: assets/seb.png
 paginate: 4
 paginate_path: "/:num/"
 

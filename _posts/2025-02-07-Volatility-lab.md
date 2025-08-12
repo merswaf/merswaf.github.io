@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Power of AWS IAM Policies"
+title: "Memory Forensics - Volatility"
 date: 2024-01-27
 tags:
   - Jekyll

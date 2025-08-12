@@ -86,9 +86,9 @@ collections:
   notes:
     output: false
     permalink: /notes/:title
-  journals:
-    output: false
-    permalink: /journals/:title
+  #journals:
+   # output: false
+    #permalink: /journals/:title
 
 # Exclude from processing.
 exclude:

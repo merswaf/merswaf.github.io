@@ -1,10 +1,12 @@
 ---
-title: Volatility Lab
-author: merswaf
-date: 2025-02-07 08:00:00 +0300
-categories: [Blog, Review]
-tags: [Memoryforensics]
-pin : true
+layout: post
+  title: "Memory Foreniscs -Volatility"
+date: 2025-02-07
+tags:
+  - Jekyll
+  - Markdown
+author: Mers Wafula
+category: Topics
 ---
 
 ### Diving into Volatility: A 13Cubed Challenge Adventure

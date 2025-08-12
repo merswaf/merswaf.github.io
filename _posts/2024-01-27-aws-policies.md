@@ -1,10 +1,12 @@
 ---
-title: The Power of AWS IAM Policies
-author: merswaf
-date: 2024-01-27 08:00:00 +0300
-categories: [Blog, Topics]
-tags: [AWS]
-pin : true
+layout: post
+title: "The Power of AWS IAM Policies"
+date: 2024-01-27
+tags:
+  - Jekyll
+  - Markdown
+author: Mers Wafula
+category: AWS
 ---
 As an aspiring AWS enthusiast on the journey toward mastering cloud security, I recently stumbled upon an enlightening AWS re:Invent talk by the captivating speaker, Bridgit. The session was a treasure trove of knowledge, particularly focusing on the intricate world of AWS Identity and Access Management (IAM) policies. Inspired by Bridgit’s insights, this article embarks on a journey to unravel the essence of IAM policies and their pivotal role in securing AWS environments.
 

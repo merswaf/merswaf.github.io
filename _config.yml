@@ -65,17 +65,16 @@ defaults:
       author:
       avatar: assets/profile-sm.png
   - scope:
-      path: ""
-      type: notes
+      path: "about.md"
     values:
-      layout: post
-      content-type: notes
+      layout: about-entry
+      content-type: about
   - scope:
       path: ""
-      type: journals
+      type: projects
     values:
-      layout: journal-entry
-      content-type: journals
+      layout: projects-entry
+      content-type: projects
 # Allows all pages to be put into `_pages` folder
 # for easier navigation and better SEO.
 collections:

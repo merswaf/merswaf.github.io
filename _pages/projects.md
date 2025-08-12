@@ -1,4 +1,3 @@
 ---
 layout: projects
-permalink: /projects
 ---

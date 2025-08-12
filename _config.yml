@@ -64,6 +64,12 @@ defaults:
       layout: "post"
       author: Mercy Wafula
       #avatar: assets/seb.png
+    - scope:
+      path: ""
+      type: about
+    values:
+      layout: about-entry
+      content-type: about
   - scope:
       path: ""
       type: project

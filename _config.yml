@@ -64,18 +64,12 @@ defaults:
       layout: "post"
       author: Mercy Wafula
       avatar: assets/seb.png
- # - scope:
-  #    path: ""
-   #   type: notes
-    #values:
-     # layout: post
-      #content-type: notes
   - scope:
       path: ""
-      type: journals
+      type: project
     values:
-      layout: journal-entry
-      content-type: journals
+      layout: project-entry
+      content-type: project
 
 # Allows all pages to be put into `_pages` folder
 # for easier navigation and better SEO.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Memory Forensics - Volatility"
-date: 2024-01-27
+date: 2025-02-07
 tags:
   - Jekyll
   - Markdown

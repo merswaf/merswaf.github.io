@@ -57,26 +57,25 @@ plugins:
 permalink: /:title
 
 defaults:
-    - scope:
+  - scope:
       path: "" # an empty string here means all files in the project
       type: "posts" # previously `post` in Jekyll 2.2.
     values:
       layout: "post"
-      author: Mercy Wafula
-      #avatar: assets/seb.png
-    - scope:
+      author:
+      avatar: assets/profile-sm.png
+  - scope:
       path: ""
-      type: about
+      type: notes
     values:
-      layout: about-entry
-      content-type: about
-    - scope:
+      layout: post
+      content-type: notes
+  - scope:
       path: ""
-      type: project
+      type: journals
     values:
-      layout: project-entry
-      content-type: project
-
+      layout: journal-entry
+      content-type: journals
 # Allows all pages to be put into `_pages` folder
 # for easier navigation and better SEO.
 collections:

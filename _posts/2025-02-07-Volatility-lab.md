@@ -1,7 +1,7 @@
 ---
 layout: post
-  title: "Memory Foreniscs Volatility"
-date: 2025-02-07
+title: "The Power of AWS IAM Policies"
+date: 2024-01-27
 tags:
   - Jekyll
   - Markdown

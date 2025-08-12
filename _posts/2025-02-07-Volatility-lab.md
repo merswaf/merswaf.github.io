@@ -3,8 +3,8 @@ layout: post
 title: "Memory Forensics - Volatility"
 date: 2025-02-07
 tags:
-  - Jekyll
-  - Markdown
+  - dfir
+  - volatility
 author: Mers Wafula
 category: Topics
 ---

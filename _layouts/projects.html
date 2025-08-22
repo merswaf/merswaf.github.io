@@ -3,29 +3,29 @@ layout: default
 ---
 {{ content }}
 
-{% assign projectss = site.projectss %}
+{% assign projects = site.projects %}
 
-<div class="projectss">
+<div class="projects">
     <h2 class="content-subhead">Recent Projects</h2>
 
     {%- if projectss.size > 0 -%}
         {%- assign date_format = site.minima.date_format | default: "%B %-d, %Y" -%}
 
-        {%- for projects in projectss -%}
-            <section class="projects">
-                <header class="projects-header">
+        {%- for project in projects -%}
+            <section class="project">
+                <header class="project-header">
                     <small>
                         <h2 class="post-title">
-                            <a href="{{ projects.url | relative_url }}">
-                                {{ projects.title | escape }}
+                            <a href="{{ project.url | relative_url }}">
+                                {{ project.title | escape }}
                             </a>
                         </h2>
                     </small>
                 </header>
 
-                <div class="projects-description">
+                <div class="project-description">
                     <p>
-                        <em>{{ projects.content | escape | truncate: 300}}</em>
+                        <em>{{ project.content | escape | truncate: 300}}</em>
                     </p>
                 </div>
             </section>

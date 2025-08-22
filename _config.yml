@@ -64,11 +64,11 @@ defaults:
       layout: "post"
       author:
       avatar: assets/profile-sm.png
-  #- scope:
-   #   path: "about.md"
-    #values:
-     # layout: about-entry
-      #content-type: about
+  - scope:
+      path: "about.md"
+    values:
+      layout: about-entry
+      content-type: about
   - scope:
       path: ""
       type: projects
@@ -84,9 +84,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:title
-  #notes:
-   # output: true
-    #permalink: /notes/:title
+  notes:
+    output: true
+    permalink: /notes/:title
   #projgg:
    # output: true
     #permalink: /jrnals/:title

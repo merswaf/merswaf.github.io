@@ -38,7 +38,7 @@ author: Mercy Wafula
 author_bio: >-
   Heya! 😄 I’m Mercy, and this is where I share what I’m working on, what I’ve accomplished (hello, certifications!), and whatever else catches my interest. So, welcome — I guess?
   When I’m not extremely lazy, I write up my adventures on Hack The Box, TryHackMe, and CyberDefenders. Feel free to check them out [Here](https://medium.com/@mercysitialo)
-author_pic: assets/seb.p
+author_pic: assets/seb.jpeg
 paginate: 4
 paginate_path: "/:num/"
 
@@ -65,11 +65,6 @@ defaults:
       author:
       avatar: assets/profile-sm.png
   - scope:
-      path: "about.md"
-    values:
-      layout: about-entry
-      content-type: about
-  - scope:
       path: ""
       type: projects
     values:
@@ -84,9 +79,6 @@ collections:
   projects:
     output: true
     permalink: /projects/:title
-  notes:
-    output: true
-    permalink: /notes/:title
   #projgg:
    # output: true
     #permalink: /jrnals/:title

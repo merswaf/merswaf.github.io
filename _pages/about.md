@@ -1,32 +1,28 @@
 ---
-layout: page
-title: About the Purelog Theme
-permalink: /about/
+# the default layout is 'page'
+icon: fas fa-info-circle
+order: 4
 ---
 
-**Purelog** is a responsive, sidebar theme for the popular JAMstack generator Jekyll that only uses the minimal [**Pure.css** framework](https://github.com/pure-css/pure) (hence the name!), while still following the best practices possible for accessibility and search-engine optimization.
+## Certifications
 
-I created this after finishing [Watery](https://github.com/brennanbrown/watery) (which this theme is built off of), as a way to add more functionality and design while still remaining as lightweight as possible.
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; padding: 15px 0;">
 
-This project is aimed towards those looking for an interesting theme for Jekyll that has features that aren't found commonly elsewhere, which I'll list down below.
+  <img src="{{ '/assets/CISSP.png' | relative_url }}" alt="CISSP" width="60">
+  <img src="{{ '/assets/gcfa.png' | relative_url }}" alt="GCFA" width="60">
+  <img src="{{ '/assets/BTL.png' | relative_url }}" alt="Blue Team Level 1" width="60">
+  <img src="{{ '/assets/SAL1.png' | relative_url }}" alt="THM SAL1" width="60">
+  <img src="{{ '/assets/SEC+.png' | relative_url }}" alt="Security+" width="60">
+  <img src="{{ '/assets/ccna_600.png' | relative_url }}" alt="CCNA" width="60">
+  <img src="{{ '/assets/CEH.png' | relative_url }}" alt="CEH" width="60">
+  
 
-### Features
+</div>
 
-Here are a few interesting features of this Jekyll theme:
+## About Me
 
-- A fully customizable and empty `_BLANK_config.yml` to make getting up-and-running easy.
-- A speedy, on-site search function using [Simply Jekyll Search](https://github.com/christian-fei/Simple-Jekyll-Search).
-- Custom collections for different types of material (note-taking, journal writing, etc.)
-- An auto-generating archive page that displays all entries from _all_ collections.
-- Having a `_pages` collection for easier organization.
-- An author bio at the end of each post. (Located in `_inclues/author.html`)
-- Full Rouge support for syntax highlighting. (Currently using `base16.solarized.light`)
-- Auto-generated RSS feed, sitemap, accessibility features, and search-engine optimization.
+Heya!
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I’m Mercy, and this is where I share what I’m working on, what I’ve accomplished (hello, certifications!), and whatever else catches my interest. So, welcome — I guess?
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-[jekyll-organization]: https://github.com/jekyll
+When I’m not extremely lazy, I write up my adventures on Hack The Box, TryHackMe, and CyberDefenders. Feel free to check them out [Here](https://medium.com/@mercysitialo)

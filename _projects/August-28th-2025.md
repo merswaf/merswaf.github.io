@@ -7,7 +7,7 @@ author: Mers Waf
 
 Welcome to my guide on setting up a core Digital Forensics and Incident Response (DFIR) practice lab! If you're new to security and want to understand how to detect malicious activity on a network, this is the perfect starting point. The goal is to create a controlled environment where we can monitor everything that happens.
 
- ![](assets/beginnersplunk.png)
+![](assets/beginnersplunk.png)
 
 My lab consists of five machines on a single Active Directory domain:
 
@@ -162,7 +162,7 @@ To test your setup, try running this search in Splunk: The check sources to ensu
 ```
 index=sysmon
 ```
- ![](assets/splunksearch.png)
+![](assets/splunksearch.png)
  
 Your journey into DFIR has begun. The next step is to simulate adversary activity in your lab and practice hunting for it using the powerful data you're now collecting. Happy hunting!
 

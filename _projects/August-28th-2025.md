@@ -10,7 +10,7 @@ tags:
 
 Welcome to my guide on setting up a core Digital Forensics and Incident Response (DFIR) practice lab! If you're new to security and want to understand how to detect malicious activity on a network, this is the perfect starting point. The goal is to create a controlled environment where we can monitor everything that happens.
 
-![](assets/4.png)
+<img src="{{ '/assets/CISSP.png' | relative_url }}" alt="CISSP" width="60">
 
 My lab consists of five machines on a single Active Directory domain:
 

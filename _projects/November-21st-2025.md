@@ -9,8 +9,10 @@ tags:
 
 ### **Introduction**
 Wmiexec (specifically the Impacket Python script wmiexec.py) is a dual-use tool heavily abused by threat actors for lateral movement and remote code execution within Windows networks, often to evade detection. Its abuse stems from leveraging the legitimate Windows Management Instrumentation (WMI) framework.
+
 <img src="{{ '/assets/wmiexec1.png' | relative_url }}" alt="wmiexec">
 <img src="{{ '/assets/wmiexec2.png' | relative_url }}" alt="wmiexec">
+
 Detections after wmiexec has been used on a system:
 
 1. EVENT ID 4624 – Security Logs
@@ -20,20 +22,22 @@ Note the following:
 - Network Address and Source Port
 - Authentication information - NTLM, important to note wmiexec.py can also be used with a -k flag for Kerberos Auth.
 - Logon Type 3
+  
 <img src="{{ '/assets/wmiexec3.png' | relative_url }}" alt="wmiexec">
 <img src="{{ '/assets/wmiexec4.png' | relative_url }}" alt="wmiexec">
 
 
-3. SYSMON – Event ID 1
+2. SYSMON – Event ID 1
 Note the following: 
  - Check the command line and parent process
  - Check executed commands i.e. cmd.exe /Q /c <executed command>
-      Switch explanation:
-        /Q: Turns echo off. When /Q is used, the command prompt will not display the commands being executed, resulting in quieter output.
-          /c: Carries out the command specified after /c, then terminates the command prompt instance.
+  -  Switch explanation:
+        - /Q: Turns echo off. When /Q is used, the command prompt will not display the commands being executed, resulting in quieter output.
+        - /c: Carries out the command specified after /c, then terminates the command prompt instance.
+   
 <img src="{{ '/assets/wmiexec5.png' | relative_url }}" alt="wmiexec">
 
-4. Hayabusa Rules Detect Impacket Use
+3. Hayabusa Rules Detect Impacket Use
 
 Hayabusa can detect the use of Impacket tools such as wmiexec.py.
 

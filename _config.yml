@@ -21,7 +21,7 @@
 title: "Mercy"
 email: merswaf@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Certified CURIOUS.Always trying to learn
+  Certified CURIOUS.Always learning :)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://merswaf.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 repository: merswaf/merswaf.github.io
